@@ -2,6 +2,8 @@
 
 A GUI application created to help manage file sizes in game development projects, specifically designed to help maintain GitHub's file size limits (100MB per file, 100GB total repository size). Originally created to assist with Godot 4 project collaboration, but useful for any project requiring file size management.
 
+![File Size Checker Interface](images/screenshot.png)
+
 ## Why This Tool?
 
 This tool was born out of a practical need during Godot 4 game development collaboration. GitHub has specific limitations:
